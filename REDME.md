@@ -1,4 +1,4 @@
-# Proyecto OOP en Java — Guía práctica de Git
+# Proyecto OOP en Java — Guía práctica de Git - Github
 
 > Repositorio de práctica colaborativa: 3 integrantes, mínimo **1 commit por persona**, con cambios **relacionados al README** y a la configuración inicial.
 
