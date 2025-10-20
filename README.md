@@ -169,3 +169,21 @@ git stash pop     # reaplica más tarde
    git push
    ```
 5. B abre PR luego de resolver el conflicto.
+
+---
+
+## Rúbrica de contribuciones (llenar durante la práctica)
+
+| Integrante | Rama creada | PR creado | Review realizado a | Commits |
+|-----------|-------------|-----------|---------------------|-------------------|
+| A         |chore/rename-readme|Nelver Vigo|Keyberth Rengel|chore: rename readme|       |
+| B         |chore/update-readme|Eduardo Ruiz|Nelver Vigo|chore: more information has been added to the Readme file|       
+| C         |chore/add-members|Keyberth Rengel|Eduardo Ruiz|chore: add members to readme|       
+
+---
+
+## Autores
+
+- Integrante Keyberth Rengel — @keyberth-rengel  
+- Integrante Nelver Vigo — @nelvervigo09-maker  
+- Integrante Eduardo Ruiz — @JEduardo7
